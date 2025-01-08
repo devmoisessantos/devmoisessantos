@@ -6,6 +6,7 @@
 Oi, sou Moisés *Santos*. Desde o meu primeiro print('hello world'), já entendi que programar era o que eu realmente queria. Me apaixonei por essa área. Estou no momento me dedicando ao Desenvolvimento Web desde Abril de 2024.
 
 Minha primeira experiência com Programação foi através de um Curso Gratuito da DSA
+
 (https://www.datascienceacademy.com.br/) "curso": Fundamentos de Linguagem Python para Análise de Dados, foi dai que me motivei a continuar nessa trilha longa e extensa da *programação*. Foi algo como "divisor de águas", pois eu não tinha conhecimento algum sobre a àrea - porém aprendi bastante e agradeço a toda DSA por isso.
 
 Eu imagino que minha jornada de transiçao de carreira é como construir um arranha-céu do zero. No início, eu tinha apenas o terreno vazio e a visão do que eu queria criar. O terreno é a minha determinação, e os primeiros alicerces foram os fundamentos que adquiri nos cursos de Python e Analise de Dados.
