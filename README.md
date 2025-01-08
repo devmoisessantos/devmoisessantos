@@ -41,4 +41,4 @@ Eu imagino que minha jornada de transiçao de carreira é como construir um arra
 - **Email:**  
   ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white) [062moises@gmail.com](mailto:062moises@gmail.com)  
 - **LinkedIn:**  
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/devmoisessantos](https://linkedin.com/in/devmoisessantos)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/devmoisessantos](https://linkedin.com/in/devmoises-santos)
