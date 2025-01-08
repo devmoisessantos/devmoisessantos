@@ -9,8 +9,8 @@ Sou um desenvolvedor Python em transição de carreira para a área de TI, com i
 - Versionamento: Git, GitHub
 
 ## Projetos
-- [Jogo da Velha](https://github.com/devmoisessantos/jogo-da-velha)
-- [Site Portfólio Pessoal](https://github.com/devmoisessantos/site-portfolio-pessoal)
+- [Repositório](https://github.com/devmoisessantos/)
+- [Portfólio Pessoal](None)
 
 ## Contato
 - **Email:** 062moises@gmail.com
