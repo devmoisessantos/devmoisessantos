@@ -12,9 +12,10 @@ Eu imagino que minha jornada de transiçao de carreira é como construir um arra
 
 ## Tecnologias
 - **Backend:**  
-  - Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  - Flask ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-  - Django ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+  - Python <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+ 
+  - Flask <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> 
+  - Django <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> 
   - FastAPI ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 
 - **Banco de Dados:**  
@@ -32,7 +33,7 @@ Eu imagino que minha jornada de transiçao de carreira é como construir um arra
 
 ## Projetos
 - **GitHub:**  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [https://github.com/devmoisessantos/](https://github.com/devmoisessantos/)  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> [https://github.com/devmoisessantos/](https://github.com/devmoisessantos/)  
 - **Portfólio Pessoal:**  
   [Link para o portfólio](#)
 
