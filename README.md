@@ -1,6 +1,6 @@
-## Moisés M Santos
+# Moisés M Santos
 
-Sou um desenvolvedor Python em transição de carreira para a área de TI, com interesse em desenvolvimento backend e frontend.
+**Desenvolvedor Web Python** *Backend & Frontend - Freelancer*
 
 ## Tecnologias
 - Python, Flask, Django, FastAPI
