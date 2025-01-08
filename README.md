@@ -1,6 +1,8 @@
 # Moisés M Santos
 
-**Desenvolvedor Web Python** *Backend & Frontend - Freelancer*
+**Desenvolvedor Web Python Backend & Frontend** - *Freelancer*
+
+[**Moises**](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
 
 ## Tecnologias
 - Python, Flask, Django, FastAPI
