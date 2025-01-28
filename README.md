@@ -34,11 +34,11 @@ Eu imagino que minha jornada de transiçao de carreira é como construir um arra
 ## Projetos
 - **GitHub:**  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> [https://github.com/devmoisessantos/](https://github.com/devmoisessantos/)  
-- **Portfólio Pessoal:**  
-  [Link para o portfólio](#)
-
-## Contato
+- Portfólio: []()  --- 😊 ---  [Link para o portfólio](#)
+- 
+## 📞 Contato  
+- Email:   
 - **Email:**  
-  ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white) [062moises@gmail.com](mailto:062moises@gmail.com)  
+  ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white) [062moises@gmail.com](mailto:0devmoisessantos@gmail.com)  
 - **LinkedIn:**  
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/devmoises-santos](https://linkedin.com/in/devmoises-santos)
