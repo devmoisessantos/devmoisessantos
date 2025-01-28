@@ -37,7 +37,6 @@ Eu imagino que minha jornada de transiçao de carreira é como construir um arra
 - Portfólio: []()  --- 😊 ---  [Link para o portfólio](#)
 - 
 ## 📞 Contato  
-- Email:   
 - **Email:**  
   ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white) [062moises@gmail.com](mailto:0devmoisessantos@gmail.com)  
 - **LinkedIn:**  
